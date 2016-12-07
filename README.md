@@ -65,4 +65,4 @@ Jupyter is an ipython notebook where you can run blocks of code and see results 
 
 `> jupyter notebook`
 
-A browser window will appear showing the contents of the current directory.  Click on the file called "P1.ipynb".  Another browser window will appear displaying the notebook.  Follow the instructions in the notebook to complete the project.  
+A browser window will appear showing the contents of the current directory.  Click on the file called "P1 - Detecting Lane Lines.ipynb".  Another browser window will appear displaying the notebook.  Follow the instructions in the notebook to complete the project.  
